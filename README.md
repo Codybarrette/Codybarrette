@@ -2,6 +2,6 @@
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-'
+
 
   - [osTicket: Prerequisites and Installation](https://github.com/Codybarrette/osticket-prereqs.git)
